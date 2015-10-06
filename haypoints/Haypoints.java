@@ -17,17 +17,6 @@ public class Haypoints
          value.add(in.nextInt());
       
       }
-      /*
-      for(int i = 0; i<jobAppCount;i++){
-         String sumString = "";
-         String nextLn = in.nextLine();
-         while(nextLn.compare(".") != 0){
-            sumString = sumString + nextLn;
-            nextLn = in.nextLine();
-         }
-         int appValue = 0;
-         for(String str:dictionary){
-         */
 
       for(int i = 0; i<jobAppCount;i++){
          int appValue = 0;

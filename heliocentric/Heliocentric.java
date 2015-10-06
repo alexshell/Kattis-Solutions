@@ -29,7 +29,7 @@ public class Heliocentric
           earthMod++;
           marsMod++;
           count++;
-          //System.out.println(earthMod + " " + marsMod + " " + count);
+
         }
         System.out.println("Case " + caseNumInput + ": " + count);
         }
